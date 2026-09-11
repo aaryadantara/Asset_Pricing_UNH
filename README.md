@@ -30,5 +30,5 @@ Python (`yfinance`, `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib`)
 
 ## Files
 
-- `asset_pricing_analysis.py` — full analysis pipeline (takes a ticker as input)
-- `outputs/` — generated charts (return distribution, regression scatter, Monte Carlo simulation, CAPM vs. OLS beta comparison)
+- `Asset_Pricing_CA2.ipynb` — full analysis pipeline (takes a ticker as input)
+- `Asset_Pricing_CA2_Final.pdf` - a presentation based on everything that was done in the python file.
